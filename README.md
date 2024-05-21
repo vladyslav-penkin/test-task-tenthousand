@@ -24,7 +24,7 @@ To run the project locally on your machine, follow these steps:
 4. Start the json-server:
 
    ```bash
-  json-server db.json --host 0.0.0.0
+   json-server db.json --host 0.0.0.0
    ```
 
 5. Open your web browser and navigate to [http://localhost:8081](http://localhost:8081) to see the project in action.
