@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Tomato",
+      "temporaryName": "Tomato",
+      "image": "http://192.168.0.104:3000/assets/images/carrot.png",
+      "fullPrice": "2.80",
+      "price": "2.50",
+      "weight": "500g",
+      "quantity": 0,
+      "category": "vegetables"
+    },
+    {
+      "id": "2",
+      "name": "Potato",
+      "temporaryName": "Potato",
+      "image": "http://192.168.0.104:3000/assets/images/carrot.png",
+      "fullPrice": "2.10",
+      "price": "1.75",
+      "weight": "500g",
+      "quantity": 0,
+      "category": "vegetables"
+    },
+    {
+      "id": "3",
+      "name": "Carrot",
+      "temporaryName": "Carrot",
+      "image": "http://192.168.0.104:3000/assets/images/carrot.png",
+      "fullPrice": "3.20",
+      "price": "2.80",
+      "weight": "500g",
+      "quantity": 0,
+      "category": "vegetables"
+    },
+    {
+      "id": "4",
+      "name": "Apple",
+      "temporaryName": "Apple",
+      "image": "http://192.168.0.104:3000/assets/images/carrot.png",
+      "fullPrice": "2.60",
+      "price": "2.25",
+      "weight": "500g",
+      "quantity": 0,
+      "category": "fruits"
+    },
+    {
+      "id": "5",
+      "name": "Banana",
+      "temporaryName": "Banana",
+      "image": "http://192.168.0.104:3000/assets/images/carrot.png",
+      "fullPrice": "2.75",
+      "price": "2.60",
+      "weight": "500g",
+      "quantity": 0,
+      "category": "fruits"
+    },
+    {
+      "id": "6",
+      "name": "Orange",
+      "temporaryName": "Orange",
+      "image": "http://192.168.0.104:3000/assets/images/carrot.png",
+      "fullPrice": "3.20",
+      "price": "2.75",
+      "weight": "500g",
+      "quantity": 0,
+      "category": "fruits"
+    }
+  ],
+  "cart": []
+}
